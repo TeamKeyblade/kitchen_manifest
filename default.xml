@@ -8,5 +8,5 @@
            remote="github"
            sync-j="4" />
 
-  <project path="." name="swordrune10/android_scripts" remote="github" />
+  <project path="/" name="swordrune10/android_scripts" remote="github" />
 </manifest>

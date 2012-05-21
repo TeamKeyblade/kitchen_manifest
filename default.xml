@@ -8,7 +8,7 @@
            remote="github"
            sync-j="4" />
 
-  <project path="scripts" name="swordrune10/android_scripts" remote="github" />
-    <copyfile src="donotrunme" dest="runme.sh" />
+  <project path="scripts" name="swordrune10/android_scripts" remote="github">
+    <copyfile src=".donotrunme" dest="runme.sh" />
   </project>
 </manifest>

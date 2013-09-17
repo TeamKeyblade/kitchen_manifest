@@ -1,4 +1,4 @@
-Team Keyblade's Rom Kitchen
+Swordrune10's Rom Kitchen
 -------------------------
 
 This repository is for my kitchen
@@ -6,11 +6,12 @@ This repository is for my kitchen
 all files except for the kitchen wrapper are hidden when repo'ed for ur viewing pleasure
 the folder all is encapsulated in is named ".scripts"
 
-    repo init -u http://github.com/TeamKeyblade/android_manifest.git -b stable
+    repo init -u http://github.com/TeamKeyblade/kitchen_manifest.git -b stable
 
 the recommended file directory is as follows:
 
     android/kitchen
+    # This is made by the kitchen itself
     android/kitchen/.scripts
     # Everything below is made by the kitchen
     android/repos/[all the repositorys u sync]

@@ -11,6 +11,7 @@ the folder all is encapsulated in is named ".scripts"
 the recommended file directory is as follows:
 
     android/kitchen
+    # This is made by the kitchen itself
     android/kitchen/.scripts
     # Everything below is made by the kitchen
     android/repos/[all the repositorys u sync]

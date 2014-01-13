@@ -9,6 +9,6 @@
            sync-j="4" />
 
   <project path=".scripts" name="TeamKeyblade/android_scripts" remote="github">
-    <copyfile src="candywrapper" dest="swordkitchen.sh" />
+    <copyfile src="utility/candywrapper" dest="swordkitchen.sh" />
   </project>
 </manifest>
